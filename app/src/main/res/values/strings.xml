@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">InventoryApp</string>
+    <string name="action_settings">Settings</string>
+    <string name="editor_activity_title_new_pet">Add Data</string>
+</resources>
